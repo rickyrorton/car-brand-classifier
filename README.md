@@ -1,3 +1,5 @@
+## Car Brand Classifier
+
 This is a transfer learning model developed by Rishi Sriram(122EC0139), Anirudh Venakateswaran(122CS0120) and VK Bharath(122EC0121) under the guidance of Prof. Atin Mukherjee. 
 
 It uses the efficientnet model with dense layers attached to it to classify between certain car brands namely Audi, Hyundai Creta, Mahindra Scorpio, Rolls Royce, Swift, Tata Safari and Toyota Innova.
